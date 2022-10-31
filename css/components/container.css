@@ -1,0 +1,56 @@
+.banner-container {
+  color:#fff;
+  margin: 0px auto;
+  padding: 140px;
+}
+
+.banner-container p {
+  color: rgba(171, 170, 170, 0.7);
+  font-size: larger;
+  padding-bottom: 30px;
+  margin: 30px 0px;
+}
+
+.btn-green {
+  color: #fff;
+  font-weight: 800;
+  background-color: rgb(157, 113, 208);
+  padding: 20px 30px;
+  border-radius: 15px;
+  margin-top: 40px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer {
+  background-color: rgb(57, 55, 55);
+  text-align: center;
+  height: 170px;
+  margin-top: 30px;
+}
+
+.list-social > li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0px;
+}
+
+.list-social {
+  padding: 0;
+}
+
+.list-item, .list-item:visited {
+  color: #fff;
+  display: inline-block;
+  font-size: 40px;
+  padding: 30px 30px 0px 30px;
+}
+
+.footer p {
+  color: rgb(153, 156, 156);
+  margin-top: 0px;
+  padding-bottom: 30px;
+}
